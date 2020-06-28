@@ -1,4 +1,4 @@
-# Move App 2020
+# Move Home 2020
 
 React JS Fundamentals Course 2020
 
